@@ -54,4 +54,8 @@ public class BinaryTree {
 			inorder(r.getRight());
 		}
 	}
+	
+	public static void main (String args[]){
+		
+	}
 }
